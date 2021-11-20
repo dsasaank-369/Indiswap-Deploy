@@ -134,7 +134,7 @@ export default function CTACards() {
             <Trans>Learn about providing liquidity</Trans> ↗
           </HeaderText>
           <TYPE.body fontWeight={300} style={{ alignItems: 'center', display: 'flex', maxWidth: '80%' }}>
-            <Trans>Check out our v3 LP walkthrough and migration guides.</Trans>
+            <Trans>Check out our LP walkthrough and migration guides.</Trans>
           </TYPE.body>
         </ResponsiveColumn>
       </CTA1>
