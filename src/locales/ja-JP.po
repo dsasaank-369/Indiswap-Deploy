@@ -348,7 +348,7 @@ msgid "Check network status"
 msgstr "ネットワークの状態を確認"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Check out our v3 LP walkthrough and migration guides."
+msgid "Check out our LP walkthrough and migration guides."
 msgstr "V3の流動性と移行ガイドをご覧ください。"
 
 #: src/components/earn/ClaimRewardModal.tsx
