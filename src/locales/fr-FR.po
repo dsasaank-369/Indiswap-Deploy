@@ -348,8 +348,8 @@ msgid "Check network status"
 msgstr "Vérifier l'état du réseau"
 
 #: src/pages/Pool/CTACards.tsx
-msgid "Check out our v3 LP walkthrough and migration guides."
-msgstr "Consultez nos guides d'utilisation et de migration pour la v3 LP."
+msgid "Check out our LP walkthrough and migration guides."
+msgstr "Consultez nos guides d'utilisation et de migration pour la LP."
 
 #: src/components/earn/ClaimRewardModal.tsx
 #: src/components/earn/ClaimRewardModal.tsx
