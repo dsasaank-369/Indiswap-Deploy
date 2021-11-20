@@ -144,7 +144,7 @@ export default function CTACards() {
             <Trans>Top pools</Trans> ↗
           </HeaderText>
           <TYPE.body fontWeight={300} style={{ alignSelf: 'flex-start' }}>
-            <Trans>Explore popular pools on Indiswap Analytics.</Trans>
+            <Trans>Explore popular pools on Pennyswap Analytics.</Trans>
           </TYPE.body>
         </ResponsiveColumn>
       </CTA2>
